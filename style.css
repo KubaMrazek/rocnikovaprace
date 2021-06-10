@@ -1,0 +1,49 @@
+body{
+    color: white;
+}
+h1{
+    background-color: black;
+    padding:15px;
+    margin:0;
+}
+a:link {
+    color:white;
+  }
+  a:visited {
+    color: white;
+  }
+  a:hover {
+    color: white;
+  }
+  a:active {
+    color: white;
+  }
+  nav{
+      background-color: rgb(29, 28, 28);
+  }
+@media only screen and (max-width:1920px) {
+    .carousel-inner{
+        width: 100%;
+    }
+}
+div{
+    display: block;
+}
+.z {
+   background-color:rgb(29, 28, 28);
+   margin:0;
+   font-size: 17px;
+   padding: 20px;
+
+}
+h2{
+    background-color:rgb(29, 28, 28);
+    margin:0;
+    font-size: 40px;
+ }
+ .x {
+     text-align: center;
+ }
+ .c {
+     background-color: black;
+ }
